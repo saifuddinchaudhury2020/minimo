@@ -1,0 +1,181 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	.header_menu{
+		text-align: center;
+	}
+	/*phtotograpy part design responsive start */
+	.photography_descrive h2 {
+		text-align: center;
+	}
+	.photography_image_content {
+		padding: 20px 0px;
+	}
+	#photo_dary_part {
+		padding: 30px 0;
+	}
+	.photography_image_text h2 {
+		padding-bottom: 15px;
+		font-size: 17px;
+		text-align: center;
+	}
+	.photography_image_text h5 {
+		padding: 10px 0px;
+		font-size: 15px;
+	}
+	/*contract part design responsive strat*/
+	#contract_part {
+		padding: 30px 0px;
+	}
+	.border_bottom {
+		border: none;
+	}
+	.contract_icon a {
+		font-size: 30px;
+	}
+	.contarct_headeing h2 {
+		font-size: 22px;
+		left: 18%;
+	}
+	/*art part design responsive start */
+	#art_part {
+		padding: 30px 0px;
+	}
+	.art_part_image_text h2 {
+		font-size: 21px;
+		text-align: center;
+	}
+	.art_part_image_text p {
+		font-size: 15px;
+	}
+	.button_area {
+		padding-top: 30px;
+	}
+	.button_area button{
+	width: 100%;
+	}
+	/*footer part desing responsive part strat */
+	.footer_left ul li a {
+		font-size: 12px;
+	}
+	.footer_right ul li {
+		padding: 10px 12px;
+	}
+	.footer_right ul li a {
+		font-size: 12px;
+		color: #626262;
+	}
+/*end header area responsive design */
+ }
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	.header_menu{
+		text-align: center;
+	}
+	/*phtotograpy part design responsive start */
+	.photography_image_content {
+		padding: 10px 0px;
+	}
+	#photo_dary_part {
+		padding: 30px 0;
+	}
+	.photography_image_text h2 {
+		text-transform: capitalize;
+		font-weight: bold;
+		color: #626262;
+		padding-bottom: 30px;
+		font-family: 'Playfair Display', regular;
+		margin: 0;
+		font-size: 17px;
+	}
+	.photography_image_text h2 {
+		padding-bottom: 15px;
+		font-size: 20px;
+	}
+	.photography_image_text h5 {
+		padding: 10px 0px;
+		font-size: 15px;
+	}
+	/*contract part design responsive strat*/
+	.border_bottom {
+		border: none;
+	}
+	.contract_icon a {
+		font-size: 30px;
+	}
+	.contarct_headeing h2 {
+		font-size: 25px;
+		padding-bottom: 15px;
+		left: 8%;
+	}
+	/*art part design responsive start */
+	#art_part {
+		padding: 30px 0px;
+	}
+	.art_part_image_text h2 {
+		font-size: 21px;
+	}
+	.art_part_image_text p {
+		font-size: 15px;
+	}
+	.button_area {
+		padding-top: 30px;
+	}
+	.button_area button{
+	width: 100%;
+	}
+	/*footer part desing responsive part strat */
+	.footer_left ul li a {
+		font-size: 12px;
+	}
+	.footer_right ul li {
+		padding: 10px 12px;
+	}
+	.footer_right ul li a {
+		font-size: 12px;
+		color: #626262;
+	}
+/*end  576px responsive design end*/
+ }
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/*header area responsive start */
+.header_menu{
+	text-align: center;
+}
+/*phtotograpy part design responsive start */
+#photo_dary_part {
+	padding: 30px 0;
+}
+.photography_image_content {
+	padding: 30px 0px;
+}
+/*contract part design responsive strat*/
+.border_bottom {
+	border: none;
+}
+.contract_icon a {
+	font-size: 30px;
+}
+/*art part design responsive start */
+#art_part {
+	padding: 30px 0px;
+}
+.button_area {
+	padding-top: 70px;
+}
+.button_area button{
+width: 100%;
+}
+/*footer part desing responsive part strat */
+.footer_left ul li a {
+	font-size: 17px;
+}
+	/*minmam widith 768px responsive design end */
+ }
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	/*minimam width 992 responsive design end */
+}
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+ }

@@ -1,0 +1,173 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+*{
+    font-family: 'Playfair Display', serif;
+}
+/*this is header area design start */
+#header{
+padding: 60px 0;
+}
+.header_menu ul li{
+padding:10px 20px;
+}
+.header_menu ul li a{
+font-size: 18px;
+color: #4d4444  !important;
+text-transform: uppercase;
+}
+/*this is header area design end*/
+/*photograpy part design start */
+#photo_dary_part{
+padding: 60px 0;
+}
+.photograpy_header h4{
+font-size: 20px;
+color:#4d4444  !important;
+text-transform: uppercase;
+padding-bottom: 35px;
+margin: 0;
+font-family: 'Ubuntu', light;
+font-weight: 500;
+}
+.photography_descrive h2{
+font-size: 32px;
+font-weight: 700;
+color: #626262;
+margin: 0;
+padding-bottom: 30px;
+font-family: 'Playfair Display', regular;
+}
+.photography_image_content{
+padding: 50px 0px;
+}
+.photography_text p{
+    color: #626262;
+    text-align: justify;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 25px;
+   padding: 0px 15px;
+   padding-bottom: 60px;
+}
+.photography_image_text h5{
+    padding: 20px 0px;
+	font-size: 20px;
+    text-transform: uppercase;
+    color: #626262;
+    font-weight: normal;
+    font-family: 'Playfair Display', regular;
+}
+.photography_image_text h2{
+    text-transform: capitalize;
+	font-weight: bold;
+    color: #626262;
+    padding-bottom: 30px;
+    font-family: 'Playfair Display', regular;
+    margin: 0;
+}
+.photography_image_text p{
+font-weight: normal;
+font-size: 17px;
+text-align: justify;
+color: #626262;
+}
+/*photograpy part design end*/
+/*contract part desin strat */
+#contract_part{
+padding: 60px 0px;
+background-color: #f0f0f0;
+}
+.contarct_headeing h2 {
+	text-transform: capitalize;
+	color: #333333;
+	font-weight: 600;
+	font-size: 32px;
+	margin: 0;
+	padding-bottom: 20px;
+	position: absolute;
+	left: 12%;
+}
+.contarct_headeing{
+margin-bottom: 30px;
+}
+.border_bottom {
+	border-bottom: 2px solid black;
+}
+.contract_form  input{
+border: none;
+	border-radius: 0px;
+	padding: 10px 30px;
+	font-size: 20px;
+}
+.contract_icon a{
+        font-size: 40px;
+        color: #cba8a8;
+        width: 50px;
+        height: 50px;
+        display: inline-block;
+        position: absolute;
+        right: 135%;
+}
+.hr_style{
+border: none;
+border-bottom: 2px solid black;
+}
+/*contract part desin end */
+/*art part design start */
+#art_part{
+padding: 60px 0px;
+}
+.art_part_image_text h5{
+    padding: 20px 0px;
+	font-size: 20px;
+    text-transform: uppercase;
+    color: #626262;
+    font-weight: normal;
+    font-family: 'Playfair Display', regular;
+}
+.art_part_image_text h2{
+    text-transform: capitalize;
+	font-weight: bold;
+    color: #626262;
+    padding-bottom: 30px;
+    font-family: 'Playfair Display', regular;
+    margin: 0;
+    font-size: 32px;
+}
+.art_part_image_text p{
+ font-weight: normal;
+    font-size: 17px;
+    text-align: justify;
+    color: #626262;
+}
+.button_area{
+padding-top: 100px;
+color:#626262;
+}
+.custom_button{
+padding: 6px 20px;
+border:2px solid gray ;
+}
+/*art part design end */
+/*footer part start */
+.footer_left ul li{
+padding: 10px 20px;
+}
+.footer_left ul li a{
+font-size: 18px;
+color: #626262;;
+}
+.footer_right ul li{
+    padding: 10px 20px;
+}
+.footer_right ul li a{
+    font-size: 18px;
+    color: #626262;
+}
+/*footer part  end */
+/*font-family: 'Playfair Display', serif; */
